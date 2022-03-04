@@ -89,3 +89,7 @@ button {
   outline: 0;
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
+
+.clear-button {
+  background: rgb(255, 109, 109);
+}
